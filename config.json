@@ -1,4 +1,6 @@
 {
+  "_CATATAN": "File ini adalah TEMPLATE/CONTOH saja. Script setup-xmrig.sh akan otomatis generate config.json dengan worker name unik di folder build.",
+  "_CARA_KERJA": "Field 'pass' digunakan SupportXMR sebagai worker name. Script akan mengisi 'pass' dengan hostname device secara otomatis.",
   "autosave": true,
   "cpu": {
     "enabled": true,
@@ -9,8 +11,8 @@
     {
       "algo": "rx/0",
       "url": "pool.supportxmr.com:3333",
-      "user": "496yoRYLVjwFqKgZLsU2HB6wqTdktwYBJ9QFpA2Eo3uY8XCCewnKTjgGnHAopaJLH6GuSLQW2myjuf9cKcAapv1aSDb2kj6",
-      "pass": "belajar-mining",
+      "user": "GANTI_DENGAN_WALLET_ADDRESS_MU",
+      "pass": "OTOMATIS_DIISI_HOSTNAME",
       "keepalive": true,
       "tls": false
     }
