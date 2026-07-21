@@ -1,0 +1,20 @@
+{
+  "autosave": true,
+  "cpu": {
+    "enabled": true,
+    "huge-pages": true,
+    "max-threads-hint": 100
+  },
+  "pools": [
+    {
+      "algo": "rx/0",
+      "url": "pool.supportxmr.com:3333",
+      "user": "496yoRYLVjwFqKgZLsU2HB6wqTdktwYBJ9QFpA2Eo3uY8XCCewnKTjgGnHAopaJLH6GuSLQW2myjuf9cKcAapv1aSDb2kj6",
+      "pass": "belajar-mining",
+      "keepalive": true,
+      "tls": false
+    }
+  ],
+  "print-time": 30,
+  "health-print-time": 60
+}
